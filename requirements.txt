@@ -4,3 +4,4 @@ langchain_core
 langchain-text-splitters
 langchain-community
 langchain-openai
+bs4
