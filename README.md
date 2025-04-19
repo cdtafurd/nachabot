@@ -37,10 +37,10 @@ Se alimenta de documentos extraídos del sitio web oficial de admisiones de la U
 nachabot/
 │
 ├── app.py                  # Aplicación principal en Streamlit
-├── graph/                  # Construcción y compilación del flujo conversacional
-├── data/                   # PDFs y documentos extraídos
-├── qa_dataset.py           # Dataset de validación con ground truths
-├── validacion_rag.ipynb    # Evaluación automática del sistema RAG
+├── load_documents.ipynb    # Indexación de documentos
+├── validation/             # Evaluación automática del sistema RAG
+├── data/                   # PDFs y URLs de sitios web de admisiones
+├── notebooks/              # Notebooks de python exploratorios
 ├── requirements.txt        # Dependencias del proyecto
 └── README.md               # Este archivo
 ```
