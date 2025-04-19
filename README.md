@@ -42,7 +42,7 @@ nachabot/
 ├── data/                   # PDFs y URLs de sitios web de admisiones
 ├── notebooks/              # Notebooks de python exploratorios
 ├── requirements.txt        # Dependencias del proyecto
-└── README.md               # Este archivo
+└── README.md               # Descripción del proyecto
 ```
 
 ---
